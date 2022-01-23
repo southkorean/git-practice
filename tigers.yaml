@@ -1,9 +1,12 @@
 team: Tigers
 
-Donald: John
+manager: John
+
+coach: Grace
 
 members:
 - Linda
 - William
 - David
 - George
+
